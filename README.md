@@ -1,5 +1,5 @@
 # HEPAL
-This is a list of acronyms, abbreviations and similar stuff that I've had to look up or remember over the years, mostly through reading [hep-lat](https://arxiv.org/list/hep-lat/new), [hep-ph](https://arxiv.org/list/hep-ph/new) and [hep-th](https://arxiv.org/list/hep-th/new) arXiv postings.  It is organized alphabetically rather than thematically.  Fermilab and CTEQ have similar lists [here](http://www.fnal.gov/pub/ferminews/ahep.html) and [here](https://www.physics.smu.edu/scalise/cteq/acronym.html).
+This is a list of acronyms, abbreviations and similar stuff that I've had to look up or remember over the years, mostly due to reading [hep-lat](https://arxiv.org/list/hep-lat/new), [hep-ph](https://arxiv.org/list/hep-ph/new) and [hep-th](https://arxiv.org/list/hep-th/new) arXiv postings.  It is organized alphabetically rather than thematically.  Fermilab and CTEQ have similar lists [here](http://www.fnal.gov/pub/ferminews/ahep.html) and [here](https://www.physics.smu.edu/scalise/cteq/acronym.html).
 
 ## `#`
 * 2DEG: Two-dimensional electron gas
