@@ -572,6 +572,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * EGO: European Gravitational Observatory
 * EGRB: Extragalactic gamma ray background
 * EGRET: Energetic Gamma Ray Experiment Telescope
+* EHT: Event Horizon Telescope
 * EIC: Electron-Ion Collider
 * EKHARA: e+e- event generator, acronym unknown
 * EKRT: Eskola, Kajantie, Ruuskanen and Tuominen heavy-ion collision model
@@ -656,6 +657,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * FCC: Face-centered cubic crystal structure
 * FCC: Future Circular Collider
 * FCHAMP: Fractionally charged massive particle
+* FCT: Fundação para a Ciência e a Tecnologia in Portugal
 * FDH: Four-dimensional helicity regularization scheme
 * FDR: Four Dimensional Regularization scheme
 * FDTD: Finite-difference time-domain
@@ -672,7 +674,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * FGCR: Flexible Generalized Conjugate Residual
 * FGL: Fermi Gamma-ray Large-area telescope
 * FGMRES: Flexible generalized minimal residual algorithm
-* FGMRES-DR: Deflated, flexible restarted generalized minimal residual algorithm
+* FGMRES-DR: Flexible generalized minimal residual algorithm deflated restarted
 * FGY: Frampton, Glashow and Yanagida
 * FHL: Fermi Large Area Telescope Catalog of High-Energy Sources
 * FHSV: Ferrara, Harvey, Strominger and Vafa
@@ -751,7 +753,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * GEMS: Gravity and Extreme Magnetism (proposed NASA mission)
 * GENEVA: A Monte Carlo combining higher-order resummations with higher fixed-order calculations, apparently not an acronym
 * GENIE: Generates Events for Neutrino Interaction Experiments
-* GENXICC: A Generator for Hadronic Production of Double Heavy Baryons Xi_{cc}
+* GENXICC: A Generator for Hadronic Production of Double Heavy Baryons Xi\_{cc}
 * GERDA: GERmanium Detector Array at Gran Sasso
 * GERT: General Employee Radiological Training
 * GeVin: GeV inert fermion
@@ -779,7 +781,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * GMO: Goldberger, Miyazawa and Oehme
 * GMOR: Gell-Mann, Oakes and Renner
 * GMRES: Generalized minimal residual algorithm
-* GMRES-DR: Deflated and restarted generalized minimal residual algorithm
+* GMRES-DR: Generalized minimal residual algorithm deflated restarted
 * GMRESR: Generalized minimal residual recursive algorithm
 * GmSUGRA: Generalized Minimal Supergravity model
 * GMSB: Gauge-mediated supersymmetry breaking
@@ -1399,6 +1401,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * nuMSM: Neutrino Minimal Standard Model including three sterile right-handed neutrinos
 * nuNMSM: Neutrino Next-to-Minimal Standard Model that also adds a scalar singlet
 * nuPIL: Neutrinos from a PIon beam Line design proposed for DUNE
+* NuQS: Collaboration acronym unknown but probably related to nuclear quantum simulations
 * NURT: NUclear and Related Technologies
 * NuSea: Nucleonic Sea asymmetry measurement experiment
 * NuSOnG: Neutrino Scattering On Glass
@@ -1496,6 +1499,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * PMNS: Pontecorvo, Maki, Nakagawa and Sakata
 * PNJL: Polyakov, Nambu and Jona-Lasinio
 * pNRQCD: Potential nonrelativistic QCD
+* POEMMA: Probe of Extreme Multi-Messenger Astrophysics NASA mission
 * PolarBeaR: Polarization of Background Radiation 
 * POLARIS: Petawatt Optical Laser Amplifier for Radiation Intensive Experiments
 * POT: Protons on target
