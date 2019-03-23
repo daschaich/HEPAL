@@ -77,7 +77,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * AMANDA: Antarctic Muon And Neutrino Detector Array
 * AMBRE: Automatic Mellin-Barnes Representation (Mathematica package)
 * aMC@NLO: Automated MC@NLO code, apparently independent of MC@NLO itself
-* aMCfast: Interface between MadGraph5_aMC@NLO and APPLgrid
+* aMCfast: Interface between MadGraph5\_aMC@NLO and APPLgrid
 * AMIAS: Athens Model-Independent Analysis Scheme for excited states in two-point functions
 * AMIDAS: A Model-Independent Data Analysis System for direct dark matter detection experiments
 * AMPT: A Multi-Phase Transport model for hadrons
@@ -441,7 +441,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 ## D
 * DA: Distribution amplitude (wave function integrated over transverse momentum with fixed longitudinal momentum fraction)
 * DAE: Indian Department of Atomic Energy
-* DAEdALUS: Decay-At-rest Experiment for delta_CP studies At the Laboratory for Underground Science
+* DAEdALUS: Decay-At-rest Experiment for delta\_CP studies At the Laboratory for Underground Science
 * DAF: Deterministic annealing filter
 * DANCE: Detector for Advanced Neutron Capture Experiments at LANL
 * DARWIN: DARk matter WImp search with Noble liquids
@@ -802,6 +802,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * GRAND: Giant Radio Array for Neutrino Detection
 * GRANIT: Gravitational Neutron Induced Transitions spectrometer
 * GRAPES: Gamma Ray Astronomy PeV EnergieS muon telescope in Tamil Nadu
+* GRAVITY: Interferometric instrument for ESO's VLTI, acronym unknown
 * GR@PPA: Grace at Proton-Proton/Antiproton event generator based on GRACE
 * GRB: Gamma-ray burst
 * GRS: Gamma Ray Spectrometer aboard the Solar Maximum Mission
@@ -1139,7 +1140,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * LHEF: Les Houches Event File format
 * LHPC: Lattice Hadron Physics Collaboration
 * LHT: Littlest Higgs model with T-parity
-* Li_n: Polylogarithm
+* Li\_n: Polylogarithm
 * LIFE: Laser Inertial Fusion Energy
 * LIGO: Laser Interferometer Gravitational Wave Observatory
 * LILITH: LIght LIkelihood fiT for the Higgs Python tool for constraining new physics from signal strength measurements
@@ -1202,7 +1203,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * MALBEK: Majorana Low-background BEGe detector at Kimballton
 * MAMI: Mainz Microtron
 * mAMSB: Minimal anomaly-mediated supersymmetry breaking model
-* MAOS: M_T2-Assisted On-Shell momentum
+* MAOS: M\_T2-Assisted On-Shell momentum
 * MAP: Muon Accelerator Program
 * MAPT: Massless Analytic Perturbation Theory
 * MARTINI: Modular Algorithm for Relativistic Treatment of heavy IoN Interactions
@@ -1300,7 +1301,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * MRW: Martin, Ryskin and Watt parton distribution formalism
 * MS: Magueijo and Smolin
 * MSbar: Modified Minimal Subtraction
-* MSR: Renormalization scheme claimed to be the simplest extension of MSbar to renormalization scales R << m_Q
+* MSR: Renormalization scheme claimed to be the simplest extension of MSbar to renormalization scales R << m\_Q
 * MSSM: Minimal supersymmetric standard model
 * MSSU(5): Minimal supersymmetric SU(5) model
 * MST: Madison Symmetric Torus
@@ -1313,7 +1314,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * MUC: Munich airport code, applied to nearby supercomputer
 * muDAR: muon Decay At Rest
 * MUED: Minimal Universal Extra Dimension model
-* Mueller--Navelet jets are characterized by high p_T and large rapidity separation
+* Mueller--Navelet jets are characterized by high p\_T and large rapidity separation
 * MuLan: Muon Lifetime Analysis experiment at PSI
 * MUNU: Experiment measuring the neutrino magnetic moment
 * munuSSM: "mu from nu" supersymmetric standard model, in which the mu problem is solved by introducing right-handed neutrinos
@@ -1541,7 +1542,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * PYTHIA: An event generator named after the Oracle of Delphi
 
 ## Q
-* QCD_AS: QCD with quarks in the two-index anti-symmetric representation
+* QCD\_AS: QCD with quarks in the two-index anti-symmetric representation
 * QCDF: QCD factorization
 * QCDM: Quintessence Cold Dark Matter cosmological model
 * QCDSF: German lattice collaboration, acronym meaning unknown (related to SFB?)
@@ -1654,7 +1655,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * SAS: Small Astronomical Satellite
 * SAS: Statistical Analysis System developed by Statistical Analysis Software
 * SCET: Soft collinear effective theory
-* SCET_G: Soft-collinear effective theory with Glauber gluons
+* SCET\_G: Soft-collinear effective theory with Glauber gluons
 * SCF: Strong color fields
 * SciBooNE: SciBar Booster Neutrino Experiment
 * Scotogenic: Caused by darkness (dark matter or dark energy)
@@ -1697,6 +1698,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * SIMD: Single instruction, multiple data computers
 * SIMP: Strongly interacting massive particle
 * SIMPLE: Superheated Instrument for Massive ParticLe Experiments
+* SINFONI: Spectrograph for INtegral Field Observations in the Near Infrared
 * SIS: Schwer-Ionen Synchrotron (Heavy Ion Synchrotron) at GSI
 * SISCone: Seedless infrared-safe cone jet algorithm
 * SJ: String Junction
@@ -1939,6 +1941,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * VLBI: Very Long Baseline Interferometry consortium in Europe
 * VLENF: Very Low Energy Neutrino Factory, now nuSTORM
 * VLT: Very Large Telescope of ESO
+* VLTI: Very Large Telescope Interferometer of ESO
 * VLVnT: Very Large Volume Neutrino Telescopes workshop
 * VMD: Vector meson dominance
 * VME: VERSAmodule Eurocard bus
