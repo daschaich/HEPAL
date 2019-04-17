@@ -332,6 +332,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * CINVESTAV: Centro de INVestigación y de ESTudios AVanzados del Instituto Politécnico Nacional
 * CIPANP: Conference on the Intersections of Particle and Nuclear Physics
 * CIPT: Contour-improved perturbation theory
+* CITA: Canadian Institute for Theoretical Astrophysics
 * CJPL: China Jin-Ping underground Laboratory
 * CJT: Cornwall, Jackiw and Tomboulis
 * CKKU: Cohen, Kaplan, Katz and Unsal
@@ -531,6 +532,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * dSph: Dwarf Spheroidal galaxy
 * DSR: Doubly or deformed Special Relativity
 * DSSM: Delta-deformed Supersymmetric Standard Model
+* DSSV: De Florian, Sassot, Stratmann and Vogelsang helicity parton densities global fit
 * DTT: Divergence-type theory
 * DUNE: Deep Underground Neutrino Experiment
 * DURA: Deep Underground Research Association
@@ -605,6 +607,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * EPICS: Experimental Physics and Industrial Control System
 * EPIQS: Emergent Phenomena In Quantum Systems
 * EPM: Ephemerides of Planets and the Moon
+* EPN: European Photon and Neutron campus in Grenoble
 * EPNJL: Entangled Polyakov, Nambu and Jona-Lasinio model
 * EPOS: Hadronic interaction model with Energy conserving quantum mechanical multiple scattering approach, based on Parton ladders, Off-shell remnants and Splitting of parton ladders
 * EPPCN: European Particle Physics Communication Network
@@ -962,6 +965,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * ILD: International Large Detector proposed for the ILC
 * ILGTI: Indian Lattice Gauge Theory Initiative
 * ILL: Institut Laue-Langevin
+* IMA: Institute of Mathematics and its Applications
 * IMB: Irvine, Michigan and Brookhaven neutrino detector
 * IMP: Institute of Modern Physics in China
 * IN2P3: Institut national de physique nucléaire et de physique des particules
@@ -1198,6 +1202,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * MACRO: Monopole, Astrophysics and Cosmic Ray Observatory
 * MADMAX: MAgnetized Disc and Mirror Axion eXperiment dielectric haloscope
 * MAGIC: Major Atmospheric Gamma Ray Imaging Cherenkov telescope
+* MAGIC: Mathematics Access Grid Instruction and Collaboration project
 * MagICAL: Magnetized Iron CALorimeter detector under construction for INO
 * MAID: [Mainz Analysis Interactive Dial-in](http://wwwkph.kph.uni-mainz.de/MAID/)
 * MALBEK: Majorana Low-background BEGe detector at Kimballton
@@ -1418,6 +1423,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * OAM: Orbital angular momentum
 * OBEP: One-boson-exchange potential for nuclei
 * ODLRO: Off-diagonal long-range order
+* OGE: One-gluon exchange
 * OGLE: Optical Gravitational Lensing Experiment
 * OHe: Dark matter model of a lepton-like doubly charged particle O bound with a primordial helium nucleus
 * OME: Operator matrix element
@@ -1466,6 +1472,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * PCA: Principal component analysis
 * PCIe: Peripheral Component Interconnect Express
 * PDS: Power divergence subtraction scheme
+* PEARC: Practice and Experience in Advanced Research Computing conference
 * PEB: Polarized electron beam
 * PEN: Pion to e+nu experiment at PSI
 * PEP: Positron Electron Project at SLAC
@@ -1487,6 +1494,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * PIC: Physics in Collision
 * PICASSO: Project in Canada to Search for Supersymmetric Objects, or Projet d'Identification de CAndidats Supersymétriques SOmbres at SNO
 * PICO: PICASSO + COUPP
+* PIDM: Planckian Interacting Dark Matter
 * PiENu: Pion decay experiment at TRIUMF
 * PINGU: Precision IceCube Next Generation Upgrade
 * PIP: Proton Improvement Plan at Fermilab
@@ -1498,6 +1506,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * PLQCD: PRACE Lattice QCD library
 * pMSSM: Phenomenological Minimal Supersymmetric Standard Model
 * PMNS: Pontecorvo, Maki, Nakagawa and Sakata
+* PNDME: Precision Neutron Decay Matrix Elements collaboration
 * PNJL: Polyakov, Nambu and Jona-Lasinio
 * pNRQCD: Potential nonrelativistic QCD
 * POEMMA: Probe of Extreme Multi-Messenger Astrophysics NASA mission
@@ -1528,6 +1537,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * PSI: Paul Scherrer Institut
 * PSL: Projective special linear group
 * PSLQ: Integer relation algorithm based on a Partial Sum of square implemented with a LQ (lower trapezoidal-orthogonal) matrix factorization
+* PSRE: Public-Sector Research Establishment
 * PT: Pinch technique
 * PTOLEMY: Princeton Tritium Observatory for Light, Early-universe, Massive-neutrino Yield
 * PTX: Parallel Thread Execution assembly-like language
@@ -1608,6 +1618,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * RIKEN: Japanese Institute of Physical and Chemical Research (Rikagaku Kenkyusho)
 * RIPPER: Repeated. Incremental Pruning to Produce Error Reduction (data mining algorithm)
 * RIVET: Robust Independent Validation of Experiment and Theory toolkit
+* RMACC: Rocky Mountain Advanced Computing Consortium
 * RMF: Relativistic mean-field framework
 * RMS: Robertson, Mansouri and Sexl
 * RMS: Root-mean-square
@@ -1630,6 +1641,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * RSc: Randall-Sundrum model with custodial protection
 * RSD: Redshift Space Distortion measurement relevant to dark matter
 * RSOS: Restricted solid-on-solid
+* RSS: Royal Statistical Society
 * RTG: Radioisotope thermoelectric generators
 * RTN: Reconfigurable Transputer Network
 * RTN: Research Training Network
@@ -1718,6 +1730,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * SLOCC: Stochastic local operations and classical communication
 * SLURM: Simple Linux Utility for Resource Management
 * SMASH: Simulating Many Accelerated Strongly-interacting Hadrons transport approach
+* SMASH: Standard model Axion Seesaw Higgs portal inflation
 * SMC: Small Magellanic Cloud
 * SMD: Stochastic molecular dynamics
 * SME: Standard Model Extension framework
@@ -1854,6 +1867,8 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * TFF: Transition form factor
 * TFH: Toorop, Feruglio and Hagedorn neutrino mixing patterns
 * TGAS: Tycho--Gaia Astrometric Solution combining the two data catalogs
+* THEIA: Proposed ESA satellite mission to study motion of faint astronomical objects in the Milky Way, apparently not an acronym
+* THEIA: Telescopic High-definition Earth Imaging Apparatus
 * THINGS: The HI Nearby Galaxy Survey
 * THOR: Theory of HOt matter and Relativistic heavy-ion collisions COST Action
 * TIAA: Teachers Insurance and Annuity Association
@@ -2002,6 +2017,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * YMH: Yang, Mills and Higgs
 * Yp: Primordial helium abundance (mass fraction)
 * YSO: Young stellar object
+* YSS: Young Statisticians' Section of the RSS
 * YUMGUT: Yukawon Ultra Minimal Grand Unified Theory
 
 ## Z
