@@ -55,6 +55,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * AGSS: Asplund, Grevesse, Sauval and Scott
 * AGT: Alday, Gaiotto and Tachikawa duality
 * AICS: RIKEN Advanced Institute for Computational Science
+* AION: Atom Interferometer Observatory and Network for ultra-light dark matter and gravitational waves
 * AIRES: AIR-shower Extended Simulations system
 * aITALC: an Integrated Tool for Automating Loop Calculations
 * AKNS: Ablowitz, Kaup, Newell and Segur
@@ -128,6 +129,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * AXP: Anomalous X-ray pulsar
 
 ## B
+* B/C: Boron-to-Carbon flux ratio in cosmic rays
 * BAMPS: Boltzmann Approach of Multi-Parton Scatterings
 * BAO: Baryon Acoustic Oscillation
 * BAT: Burst Alert Telescope aboard the Swift satellite observatory
@@ -166,6 +168,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * BES: Beisert, Eden and Staudacher
 * BESS: Balloon-borne Experiment with a Superconducting Spectrometer
 * BESS: Breaking electroweak symmetry strongly
+* BEST: Baksan Experiment on Sterile Neutrino
 * BET: Boundary effective theory
 * BETS: Balloon-borne Electron Telescope with Scintillating fibers
 * BF: "Background field" topological field theory involving two-form B and curvature form F
@@ -241,6 +244,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 ## C
 * CAAR: Center for Accelerated Application Readiness at Oak Ridge
 * CAFPE: Centro Andaluz de Física de Partículas Elementales
+* CALET: CALorimetric Electron Telescope on the International Space Station
 * CAMB: Code for Anisotropies in the Microwave Background
 * CANGAROO: Collaboration of Australia and Nippon for a GAmma Ray Observatory in the Outback
 * CAPRICE: Cosmic AntiParticle Ring Imaging Cherenkov Experiment
@@ -326,6 +330,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * ChPT: Chiral perturbation theory
 * CHY: Cachazo, He and Yuan
 * CI: Chirally improved
+* CIBJET: Event-by-event generalization of CUJET, acronym unknown
 * CICY: Complete Intersection Calabi--Yau manifolds
 * CiDM: Composite inelastic dark matter
 * CII: Astronomical zone in which hydrogen is fully molecular but carbon is ionized
@@ -341,6 +346,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * CKS: Carcamo, Kovalenko and Schmidt mechanism for SM flavor hierarchy
 * CLAF: Latin American Center for Physics in Rio de Janeiro
 * CLAFEX: Cosmology and High Energy Physics Laboratory
+* CLARA: Compact Linear Accelerator for Research and Applications
 * CLAS: CEBAF Large Acceptance Spectrometer
 * CLASS: Cosmic Lens All-Sky Survey
 * CLASS: Cosmic Linear Anisotropy Solving System code
@@ -366,12 +372,14 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * CNM: Cold nuclear matter
 * CNMSSM: Constrained next-to-minimal supersymmetric standard model
 * CNRS: Centre national de la recherche scientifique
+* CnuB: Cosmic Neutrino Background
 * COBE: Cosmic Background Explorer satellite
 * CoDECS: Coupled Dark Energy Cosmological Simulations database
 * CODEX: COsmic Dynamics and EXo-earth experiment spectrograph for the E-ELT
 * CODEX-b: COmpact Detector for EXotics at LHCb proposed for Run3
 * CoGeNT: Coherent Germanium Neutrino Technology
 * COHERENT: Elastic neutrino--nucleus scattering experiment at SNS, apparently not an acronym
+* COLLAPS: COLlinear LAser SPectroscopy [sic] experiment at ISOLDE
 * COLLIER: Complex One-Loop Library In Extended Regularisations
 * CoLoRFulNNLO: Completely Local subtRactions for Fully differential predictions at NNLO
 * COMET: COherent Muon Electron Transition experiment at J-PARC
@@ -429,6 +437,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * CUORE: Cryogenic Underground Observatory for Rare Events at Gran Sasso
 * CUDA: No longer an acronym, formerly Compute Unified Device Architecture
 * CUJET: Columbia University jet quenching Monte Carlo
+* CUSTIPEN: China--US Theory Institute for Physics with Exotic Nuclei
 * CVC: Conserved vector current
 * CVD: Chemical vapor deposition
 * CVMN: Chamseddine and Volkov, later Maldacena and Nunez
@@ -437,6 +446,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * CWoLa: Classification Without Labels machine learning method
 * CXC: Chandra X-ray Center
 * CXO: Chandra X-ray Observatory
+* CYGNUS: Directional dark matter search proposal, apparently not an acronym
 * CZ: Convective zone (for instance of the sun)
 
 ## D
@@ -546,6 +556,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 
 ## E
 * EADL: Evaluated Atomic Data Library
+* EAIM: An exact analytical iteration method
 * EAS: Extensive air shower
 * EAS-MSU: Telescope array run by Moscow State University to detect and analyze extensive air showers
 * EBAC: Excited Baryon Analysis Center at Jlab
@@ -766,6 +777,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * GGM: Generalized Gauge Mediation
 * GGRESRC: e+e- event generator, acronym unknown
 * GGT: Gluon-gluino tree
+* GHZ: Greenberger--Horne--Zeilinger state in quantum information theory
 * GiBUU: Giessen Boltzmann--Uehling--Uhlenbeck transport model project
 * GIM: Glashow, Iliopoulos and Maiani
 * GIMP: Gravitationally Interacting Massive Particle
@@ -847,6 +859,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * HEAO: High Energy Astronomy Observatory
 * HEAT: High Energy Antimatter Telescope
 * HECOLS: High Energies, Compact Objects, and Large Surveys Polish--French lab
+* HEdSA: Higher Education Service Area of the IMA
 * HEGET: HELAS Evaluation with GPU Enhanced Technology
 * HEIDI: extension of the standard model with a "higher dimensional" scalar singlet field
 * HELAC: A package to compute electroweak helicity amplitudes
@@ -877,6 +890,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * HIJING: Heavy Ion Jet INteraction Generator
 * HILAS: High Intensity Large Acceptance Spectometer proposed for Jlab
 * HiPER: High Power laser Energy Research
+* HIRAX: Hydrogen Intensity and Real-time Analysis eXperiment telescope array in South Africa
 * HIRES: High Resolution Echelle Spectrometer at the Keck observatory in Hawaii
 * HiRes-MIA: Hybrid detector consisting of the High Resolution Fly's Eye prototype and the MIchigan muon Array in Utah
 * HiSCORE: Hundred Square-km Cosmic ORigin Explorer
@@ -908,6 +922,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * HT: Higher twist
 * HTL: Hard thermal loop
 * HTLpt: Hard thermal loop perturbation theory
+* HVeV: High-voltage CDMS detector, possibly pushing for eV-scale energy resolution
 * HVP: Hadronic Vacuum Polarisation
 * HYDJET: HYDrodynamics plus JETs heavy ion event generator
 
@@ -1006,6 +1021,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * ISR: Intersecting Storage Rings
 * ISS: Intriligator, Seiberg and Shih
 * ISS: Inverse Seesaw model
+* ISSO: Information System Security Officer
 * ISVHECRI: International Symposium on Very High Energy Cosmic Ray Interactions
 * iTEBD: Infinite time-evolving block decimation tensor network method
 * ITEP: Institute for Theoretical and Experimental Physics in Moscow
@@ -1204,6 +1220,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * MAGIC: Major Atmospheric Gamma Ray Imaging Cherenkov telescope
 * MAGIC: Mathematics Access Grid Instruction and Collaboration project
 * MagICAL: Magnetized Iron CALorimeter detector under construction for INO
+* MAGIS: Mid-band Atomic Gravitational-wave Interferometric Sensor
 * MAID: [Mainz Analysis Interactive Dial-in](http://wwwkph.kph.uni-mainz.de/MAID/)
 * MALBEK: Majorana Low-background BEGe detector at Kimballton
 * MAMI: Mainz Microtron
@@ -1422,10 +1439,12 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 ## O
 * OAM: Orbital angular momentum
 * OBEP: One-boson-exchange potential for nuclei
+* ODA: Official Development Assistance
 * ODLRO: Off-diagonal long-range order
 * OGE: One-gluon exchange
 * OGLE: Optical Gravitational Lensing Experiment
 * OHe: Dark matter model of a lepton-like doubly charged particle O bound with a primordial helium nucleus
+* OISSO: Organizational Information System Security Officer
 * OME: Operator matrix element
 * OMEG: Origin of Matter and Evolution of Galaxies symposia
 * O'Mega: Optimizing Matrix Element Generator compiler
@@ -1477,6 +1496,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * PEN: Pion to e+nu experiment at PSI
 * PEP: Positron Electron Project at SLAC
 * PEPS: Projected entangled pair states tensor network method
+* PERKEO: Superconducting cold neutron beta-decay spectrometers at ILL, acronym unknown
 * PETRA: Positron-Electron Tandem Ring Accelerator at DESY
 * PFH: PAMELA, Fermi and HESS
 * PFX: Procedures for Researchers document at Fermilab
@@ -1652,6 +1672,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * RXTE: Rossi X-ray Timing Explorer
 
 ## S
+* S&FE: Schools and Further Education committee of the IMA
 * SACOT: Simplified ACOT renormalization scheme
 * SAdS: Schwartzchild anti-de Sitter
 * SAGE: Soviet-American Gallium Experiment
@@ -1666,6 +1687,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * SARAH: Mathematica package for building and analyzing (not only) supersymmetric theories, apparently not an acronym
 * SAS: Small Astronomical Satellite
 * SAS: Statistical Analysis System developed by Statistical Analysis Software
+* SB&F: Science Books & Films project of AAAS
 * SCET: Soft collinear effective theory
 * SCET\_G: Soft-collinear effective theory with Glauber gluons
 * SCF: Strong color fields
@@ -1812,6 +1834,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * sUED: Singlet-extended universal extra dimension
 * SuGAR: Searching for the sources of GAlactic cosmic Rays workshop
 * SUMR: Shifted Unitary Minimal Residual algorithm
+* SUNLAB: Underground laboratory in the Polkowice--Sieroszowice mine in Poland
 * SuperIso: Program for calculating flavor observables, focusing on isospin asymmetries in susy models
 * SURA: Southeastern Universities Research Association
 * SURF: Sanford Underground Research Facility in South Dakota
