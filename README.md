@@ -78,6 +78,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * ALPS: Axion-Like Particle Search (or Any Light Particle Search) at DESY
 * ALR: Alternative left-right scenario
 * AMANDA: Antarctic Muon And Neutrino Detector Array
+* AMBER: Apparatus for Meson and Baryon Experimental Research proposed at CERN
 * AMBRE: Automatic Mellin-Barnes Representation (Mathematica package)
 * aMC@NLO: Automated MC@NLO code, apparently independent of MC@NLO itself
 * aMCfast: Interface between MadGraph5\_aMC@NLO and APPLgrid
@@ -822,6 +823,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * GMSB: Gauge-mediated supersymmetry breaking
 * GNMSSM: The most general form of the NMSSM
 * GNO: Goddard, Nuyts and Olive magnetic charge
+* GNSS: Global Navigation Satellite System
 * GOE: Gaussian orthogonal ensemble
 * GOLEM: General One Loop Evaluator for Matrix elements
 * GoSam: Package that bundles GOLEM and SAMURAI among others
@@ -907,9 +909,11 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * HI: Astronomical zone in which hydrogen is mostly atomic
 * HIAF: Heavy-Ion Advanced Research Facility proposed at the IMP in China
 * HIC: Helmholtz International Center for FAIR
+* HIE-ISOLDE: High Intensity and Energy upgrade of ISOLDE
 * HIGS: High-Intensity Gamma-ray Source at DFELL
 * HIJING: Heavy Ion Jet INteraction Generator
 * HILAS: High Intensity Large Acceptance Spectometer proposed for Jlab
+* HIP: Heterogeneous-compute Interface for Portability for GPU programming
 * HiPER: High Power laser Energy Research
 * HIRAX: Hydrogen Intensity and Real-time Analysis eXperiment telescope array in South Africa
 * HIRES: High Resolution Echelle Spectrometer at the Keck observatory in Hawaii
@@ -924,6 +928,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * HM: High-mass
 * HMChPT: Heavy Meson Chiral Perturbation Theory
 * HMM: Hidden Markov Model
+* HOBET: Harmonic-Oscillator-Based Effective Theory
 * HOMFLY-PT: Hoste, Ocneanu, Millett, Freyd, Lickorish, Yetter, Przytycki and Traczyk
 * HORACE: Higher Order RAdiative CorrEctions event generator
 * HPCC: High Performance Computing and Communications
@@ -999,6 +1004,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * IGRB: Isotropic diffuse gamma-ray background
 * IHEP: Institute for High Energy Physics at Protvino, Russia
 * iHixs: Inclusive Higgs boson cross section program
+* IIASA: International Institute for Applied Systems Analysis
 * IIRC: Ito International Research Center in Tokyo
 * IKAROS: Interplanetary Kite-craft Accelerated by Radiation Of the Sun spacecraft
 * IKKT: Ishibashi, Kawai, Kitazawa and Tsuchiya
@@ -1062,8 +1068,10 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 ## J
 * J-PARC: Japan Proton Accelerator Research Complex
 * JADE: Japan, Deutschland, and England detector at DESY's PETRA, also refers to type of jet algorithm developed by this collaboration
+* JAGS: Just Another Gibbs Sampler bayesian analysis code
 * JAM: Jet A--A Microscopic transport model
 * JDEM: Joint Dark Energy Mission
+* JEDI: Jülich Electric Dipole moment Investigations collaboration
 * JEM-EUSO: Japan Experiment Modules Extreme Universe Space Observatory
 * JEWEL: Jet Evolution With Energy Loss event generator
 * JET: Topical collaboration on Jet and Electromagnetic Tomography of extreme phases of matter in heavy-ion collisions
@@ -1405,6 +1413,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * NEOS: Neutrino Experiment for Oscillation at Short baseline in Korea
 * NERSC: National Energy Research Scientific Computing Center
 * NESSiE: Neutrino Experiment with SpectrometerS in Europe, proposed for CERN and/or Fermilab
+* NESTA: UK charity, formerly National Endowment for Science, Technology and the Arts
 * NESTOR: Neutrino Extended Submarine Telescope with Oceanographic Research
 * NeurIPS: Neural Information Processing Systems conference
 * NEUT: Neutrino interaction simulation library, apparently not an acronym
@@ -1598,6 +1607,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * PSL: Projective special linear group
 * PSLQ: Integer relation algorithm based on a Partial Sum of square implemented with a LQ (lower trapezoidal-orthogonal) matrix factorization
 * PSR: Pulsating Source of Radio (i.e., a pulsar)
+* PSRB: Professional, Statutory and Regulatory Bodies
 * PSRE: Public-Sector Research Establishment
 * PSXE: Intel Parallel Studio version
 * PT: Pinch technique
@@ -1643,6 +1653,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * QUIET: Q/U Imaging ExperimenT (Q and U are Stokes parameters)
 
 ## R
+* RAD: Rapidity anomalous dimension
 * RADES: Relic Axion Detector Exploratory Setup
 * RADICAL: Research in Advanced Distributed Cyberinfrastructure and Applications
 * RAID: Redundant array of inexpensive disks
@@ -2041,6 +2052,8 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * VSI: Vanishing Scalar Invariant
 * VSR: Very special relativity
 * VST: VLT Survey Telescope at ESO
+* VTR: Vault-Type Room at Livermore
+* VUV: Vacuum ultraviolet
 
 ## W
 * WARP: Wimp Argon Programme
@@ -2049,6 +2062,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * WB: Weak basis
 * wCDM: Cold dark matter model with free (constant) EOS w for dark energy
 * WDM: Warm dark matter
+* WDRS: Workforce Development and Resources Section at Fermilab
 * WDVV: Witten, Dijkgraaf, Verlinde and Verlinde
 * WDWI: Weakly dissipative warm inflation
 * We: Electrical Watt
