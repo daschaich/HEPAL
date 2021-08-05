@@ -64,6 +64,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * AL3X: A Laboratory for Long-Lived eXotics proposed LHC detector near ALICE
 * ALFA: Arecibo L-band Feed Array
 * ALICE: A Large Ion Collider Experiment
+* ALICE: Accelerators and Lasers In Combined Experiments at Daresbury, formerly ERL
 * ALICE: Imaging spectrograph aboard the New Horizons mission, not an acronym but sometimes treated as such
 * ALMA: Atacama Large Millimeter Array run by the NRAO
 * ALE: Arbitrary Lagrangian--Eulerian techniques
@@ -117,6 +118,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * ASCR: Advanced Scientific Computing Research program of the DOE
 * ASD: Anti-self-dual
 * ASEP: Asymmetric simple exclusion process
+* ASIC: Application-specific integrated circuit
 * ASTROD: Astrodynamical Space Test of Relativity using Optical Devices
 * AT: Astronomical Transient (e.g., AT2017gfo)
 * ATCA: Australia Telescope Compact Array
@@ -130,6 +132,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * AUC: Area Under the [receiver operating characteristic] Curve machine learning  performance measure
 * AUT: Single-spin target Asymmetry with Unpolarized beam and Transversely polarized target
 * AVX: Advanced vector extensions
+* AWAKE: Advanced proton driven plasma Wakefield acceleration experiment based at CERN
 * AXP: Anomalous X-ray pulsar
 
 ## B
@@ -237,6 +240,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * BRNS: Indian DAE Board of Research in Nuclear Sciences
 * BRpV: Bilinear R parity Violation
 * BRST: Becchi, Rouet, Stora, and (independently) Tyutin
+* BSS: Blankenbecler, Scalapino and Sugar quantum Monte Carlo algorithm
 * BSSN: Baumgarte, Shapiro, Shibata and Nakamura
 * BSV: Bajc, Senjanovic and Vissani
 * BSW: Bauer, Stech and Wirbel
@@ -357,7 +361,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * CKS: Carcamo, Kovalenko and Schmidt mechanism for SM flavor hierarchy
 * CLAF: Latin American Center for Physics in Rio de Janeiro
 * CLAFEX: Cosmology and High Energy Physics Laboratory
-* CLARA: Compact Linear Accelerator for Research and Applications
+* CLARA: Compact Linear Accelerator for Research and Applications at Daresbury
 * CLAS: CEBAF Large Acceptance Spectrometer
 * CLASS: Cosmic Lens All-Sky Survey
 * CLASS: Cosmic Linear Anisotropy Solving System code
@@ -419,6 +423,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * CPAD: Coordinating Panel for Advanced Detectors
 * CPW: Coplanar Waveguide
 * CR: Cauchy and Riemann
+* CR&D: Collaborative research and development
 * CREAM: Cosmic Ray Energetics And Mass
 * CRES: Cyclotron Radiation Emission Spectroscopy
 * CRESST: Cryogenic Rare Event Search with Superconducting Thermometers
@@ -491,6 +496,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * DCP: Deconfined critical point
 * DCT: Discrete cosine transform
 * DCV: Desktop Cloud Visualization
+* dDGLAP: double DGLAP framework for double PDFs
 * DDH: Desplanques, Donoghue and Holstein
 * DDM3Y: Density-Dependent Michigan 3-range Yukawa effective interaction
 * DDVCS: Double deeply virtual Compton scattering
@@ -592,18 +598,21 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * EDD: Exclusive double diffractive
 * EDELWEISS: Expérience pour DEtecter Les Wimps En Site Souterrain
 * EDGES: Experiment to Detect the Global Epoch of reionization Signature
+* EDI: Equity, diversity and inclusion
 * EDMFT: Extended Dynamical Mean Field Theory
 * EDS: Elastic and diffractive scattering
 * E-ELT: European Extremely Large Telescope of ESO
 * EEX: Exclusive exponentiation
 * EF: Eddington and Finkelstein
 * EGEE: Enabling Grids for E-sciencE
+* EGI: European Grid Infrastructure foundation
 * EGM: Extended gauge model
 * EGO: European Gravitational Observatory
 * EGRB: Extragalactic gamma ray background
 * EGRET: Energetic Gamma Ray Experiment Telescope
 * EHT: Event Horizon Telescope
 * EIC: Electron-Ion Collider
+* EIC: European Innovation Council
 * EKHARA: e+e- event generator, acronym unknown
 * EKRT: Eskola, Kajantie, Ruuskanen and Tuominen heavy-ion collision model
 * EKS: Ellis, Kunszt and Soper (code for jet distribution calculations)
@@ -618,6 +627,8 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * ELSA: Elektronen Stretcher Anlage in Bonn
 * eLSM: Extended Linear Sigma Model
 * EMC: European Muon Collaboration
+* EMCCD: Electron multiplication charge-coupled device
+* EMMA: Electron Machine with Many Applications accelerator at Daresbury
 * EMMI: ExtreMe Matter Institute
 * EMPIC: Electromagnetic particle-in-cell
 * EMSSM: MSSM with Environmentally selected dark matter
@@ -638,6 +649,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * EPN: European Photon and Neutron campus in Grenoble
 * EPNJL: Entangled Polyakov, Nambu and Jona-Lasinio model
 * EPOS: Hadronic interaction model with Energy conserving quantum mechanical multiple scattering approach, based on Parton ladders, Off-shell remnants and Splitting of parton ladders
+* EPoSS: European Technology Platform on Smart Systems Integration policy initiative
 * EPPCN: European Particle Physics Communication Network
 * EPPS: Eskola, Paakkinen, Paukkunen and Salgado
 * EPS: Eskola, Paukkunen and Salgado
@@ -647,6 +659,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * ERBL: Efremov, Radyushkin, Brodsky and Lepage
 * ERE: Effective range expansion
 * ERE: Encuentros Relativistas Españoles
+* ERL: Energy Recovery Linac at Daresbury, renamed ALICE
 * EROS: Expérience pour la Recherche d'Objets Sombres microlensing survey
 * ESA: European Space Agency
 * ESI: Erwin Schrodinger International Institute for Mathematical Physics
@@ -662,6 +675,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * ETH: Swiss Federal Institute of Technology (Eidgenössische Technische Hochschule) in Zurich, and a pion--nucleon scattering model developed there
 * ETM: European Twisted Mass Collaboration
 * ETHOS: Effective THeory Of Structure Formation cosmological N-body simulations
+* ETP: European Technology Platform
 * ETQS: Efremov, Teryaev, Qiu and Sterman
 * EUREKA: European Research Coordination Agency
 * EVN: European Very Long Baseline Interferometry Network
@@ -771,6 +785,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * GAPP: Global Analysis of Particle Properties
 * GAPS: General Antiparticle Spectrometer
 * GARD: General Accelerator Research and Development
+* GARM: Generalized atmospheric Rosenbluth method
 * GB: Gunion and Bertsch
 * GBM: Gamma-ray Burst Monitor, part of Fermi/GLAST
 * GBW: Golec-Biernat and Wüsthoff
@@ -949,6 +964,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * HT: Higher twist
 * HTL: Hard thermal loop
 * HTLpt: Hard thermal loop perturbation theory
+* HUNTER: Heavy Unseen Neutrinos from Total Energy-momentum Reconstruction experiment at UCLA
 * HVeV: High-voltage CDMS detector, possibly pushing for eV-scale energy resolution
 * HVP: Hadronic Vacuum Polarisation
 * HXMT: Hard X-ray Modulation Telescope, also known as Insight
@@ -990,6 +1006,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * ICM: International Conference on Magnetism
 * ICNAAM: International Conference of Numerical Analysis and Applied Mathematics
 * ICRC: International Cosmic Ray Conference
+* ICT: Information and communications technology
 * iDM: Inelastic dark matter
 * IDM: Inert doublet model
 * IDM: Interacting dark matter
@@ -998,6 +1015,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * IDS-NF: International Design Study of the Neutrino Factory
 * iEBE-VISHNU: Integrated(?) Event-By-Event Viscous Israel Stewart Hydrodynamics aNd UrQMD
 * IEEE: Institute of Electrical and Electronics Engineers
+* IETF: UK Industrial Energy Transformation Fund
 * IFAE: Incontri di Fisica di Alta Energia
 * IFIC: Instituto de Física Corpuscular
 * IGCAC: International Conference on Gravitation, Astrophysics and Cosmology
@@ -1040,6 +1058,8 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * IRC: Infrared and collinear
 * IS: Interstellar cosmic ray fluxes
 * ISAC: Isotope Separator and ACcelerator facility at TRIUMF
+* ISARIC: International Severe Acute Respiratory and Emerging Infection Consortium
+* ISARIC4C: ISARIC Coronavirus Clinical Characterisation Consortium
 * ISCO: Innermost stable circular orbit
 * ISD: Imaginary self dual
 * iSF: Inverse soft function
@@ -1070,6 +1090,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * JADE: Japan, Deutschland, and England detector at DESY's PETRA, also refers to type of jet algorithm developed by this collaboration
 * JAGS: Just Another Gibbs Sampler bayesian analysis code
 * JAM: Jet A--A Microscopic transport model
+* JAXA: Japan Aerospace Exploration Agency
 * JDEM: Joint Dark Energy Mission
 * JEDI: Jülich Electric Dipole moment Investigations collaboration
 * JEM-EUSO: Japan Experiment Modules Extreme Universe Space Observatory
@@ -1336,6 +1357,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * MISC: Maskawa Institute for Science and Culture at Kyoto Sangyo University
 * MiXDM: Multiple states for inelastic and exciting dark matter
 * MKL: Intel Math Kernel Library
+* MLC: Mandelbrot Locally Connected conjecture
 * MLF: Material and Life Science Experimental Facility at J-PARC
 * MLM: M. L. Mangano
 * MLS: Minimal Length Scenario
@@ -1398,11 +1420,13 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * NAHE: Nanopoulos, Antoniadis, Hagelin and Ellis
 * NaI(Tl): Sodium iodide doped with thallium
 * NAMD: Not (just) Another Molecular Dynamics program
+* NANOGrav: North American Nanohertz Observatory for Gravitational Waves pulsar timing array
 * NBS: Nambu, Bethe and Salpeter
 * NCCP: Non-compact complex projective model in SU(N)/U(N-1)
 * NCEL: Neutral-current elastic cross section
 * NCh: Non-uniform chiral phase
 * NCQ: Number of constituent quarks
+* NCSC: UK National Cyber Security Centre
 * NCSL: National Superconducting Cyclotron Laboratory
 * nCTEQ: nuclear Coordinated Theoretical--Experimental Project on QCD
 * NDR: Naive dimensional regularization, with implicit MSbar subtraction
@@ -1420,6 +1444,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * NEWSdm: Nuclear Emulsions for WIMP Search---directional measurement
 * NeXSPheRIO: Hydrodynamics code combining NeXuS and SPheRIO
 * NEXT: Neutrino Experiment with a Xenon Time projection chamber
+* NExT: New connections between Experiment and Theory Institute
 * NeXuS: Hadronic interaction model, apparently replaced by EPOS
 * NFS: Network File System
 * NFT: Network File Transport utility at Livermore
@@ -1427,6 +1452,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * NGC: New General Catalogue of galaxies
 * NGO: New Gravitational wave Observatory, also known as eLISA
 * NHDM: N-Higgs-doublet model
+* NIC: Network Interface Card
 * NICA: Nuclotron-based Ion Collider fAcility at JINR
 * NICODEMOS: Numerical Integration with COntour DEformation and MOdular Subtractions
 * NIF: National Ignition Facility
@@ -1492,6 +1518,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * OGLE: Optical Gravitational Lensing Experiment
 * OHe: Dark matter model of a lepton-like doubly charged particle O bound with a primordial helium nucleus
 * OISSO: Organizational Information System Security Officer
+* OKA: Experiments with Kaons in Russian
 * OME: Operator matrix element
 * OMEG: Origin of Matter and Evolution of Galaxies symposia
 * O'Mega: Optimizing Matrix Element Generator compiler
@@ -1512,6 +1539,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * OSI: Open Systems Interconnection model
 * OSS: Lustre Object Storage Server
 * OST: Lustre object storage targets
+* OSTI: DOE Office of Scientific and Technical Information
 * OTO: Out-of-time-ordered correlators
 * OTS: Open Terminal Server
 * OWL: One Way Link
@@ -1541,6 +1569,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * PDS: Power divergence subtraction scheme
 * PEARC: Practice and Experience in Advanced Research Computing conference
 * PEB: Polarized electron beam
+* PEMD: Power electronics, machines and drives
 * PEN: Pion to e+nu experiment at PSI
 * PEP: Positron Electron Project at SLAC
 * PEPS: Projected entangled pair states tensor network method
@@ -1586,6 +1615,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * POWHEG BOX: Automatic implementation of POWHEG for generic NLO processes, apparently not an acronym
 * PowHel: Framework combining the POWHEG-Box with the HELAC-NLO package
 * PPAC: Parallel-plate avalanche counter
+* PPAP: STFC Particle Physics Advisory Panel
 * PPB: Polar Patrol Balloon
 * PPC: International Conference on Interconnections between Particle Physics and Cosmology
 * PPF: Pisano, Pleitez and Frampton
@@ -1634,18 +1664,22 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * QHD: Quantum haplodynamics
 * QISM: Quantum Inverse Scattering Method
 * QJT: Quantum Jet Theory
+* QKD: Quantum key distribution
+* QLM: Atos Quantum Learning Machine
 * QMC: Quark-meson coupling
 * QMRK: Quasi-multi-Regge kinematics
 * QNM: Quasinormal mode
 * QPA: Quasiparticle approximation
-* QPE: Quantum phase estimation
 * QPACE: QCD Parallel Computing on the Cell Broadband Engine
+* QPE: Quantum phase estimation
+* QPIC: Quantum Photonics Integrated Circuit
 * QRPA: Quasiparticle random phase approximation
 * QSO: Quasi-stellar objects (quasars)
 * QSSR: QCD spectral sum rules
 * QTS: Quantum Theory and Symmetries
 * QUaD: QUEST at DASI
 * QuantEmX: Quantum Emergence Exchange
+* QUASAR: Quantum Systems and advanced Accelerator Research group
 * QUASAR: Proposed Quasi-Axisymmetric Stellarator Research facility
 * QUAX: QUaerere AXion ("search axion") proposal
 * QUEST: Q and U Extragalactic Sub-mm Telescope
@@ -1660,6 +1694,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * RAL: STFC Rutherford Appleton Laboratory near Oxford
 * RAMBO: RAndom Momenta BOoster multi-particle phase space generator
 * RAMSES: Adaptive Mesh Refinement code for self-gravitating magnetized fluid flows, apparently not an acronym
+* RAN: Radio Access Network
 * RAS: Russian Academy of Sciences
 * RAVE: RAdial Velocity Experiment star survey
 * RC: Renormalization constant
@@ -1702,6 +1737,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * RNS: Ramond, Neveu and Schwarz superstring
 * RnuMDM: Model relating radiative seesaw and minimal dark matter mass scales with only SM gauge group
 * ROC: Receiver operating characteristic of signal efficiency as function of background efficiency
+* ROC: Remote operations center
 * ROI: Rest observer at infinity
 * ROSAT: Röntgen Satellite (X-ray observatory)
 * RP: Reaction plane
@@ -1720,6 +1756,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * RTG: Radioisotope thermoelectric generators
 * RTN: Reconfigurable Transputer Network
 * RTN: Research Training Network
+* RTO: Research and Technology Organisation
 * RVB: Resonating valence bond
 * RWP: Radiation Work Permit
 * RWTH: Rheinisch-Westfaelische Technische Hochschule
@@ -1743,6 +1780,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * SAS: Small Astronomical Satellite
 * SAS: Statistical Analysis System developed by Statistical Analysis Software
 * SB&F: Science Books & Films project of AAAS
+* SBND: Short-Baseline Near Detector for neutrinos at Fermilab
 * SCET: Soft collinear effective theory
 * SCET\_G: Soft-collinear effective theory with Glauber gluons
 * SCF: Strong color fields
@@ -1846,6 +1884,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * SPD: Spin Physics Detector at NICA at JINR
 * SPE: Synergistic Processor Element of Cell processor
 * SPEAR: Stanford Positron Electron Accelerating Ring
+* SEPCTRUM: Shaping Public hEalth poliCies to Reduce ineqUalities and harM consortium
 * sPHENIX: Proposed upgrade of PHENIX, apparently featuring a superconducting solenoid magnet
 * SPheno: Supersymmetric Phenomenology program for calculating spectrum and decays
 * SPheRIO: Smoothed Particle hydrodynamic evolution of Relativistic heavy IOn collisions
@@ -1872,6 +1911,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * SONIC: Super hybrid mOdel simulationN for relativistic heavy-Ion Collisions
 * SRD: Secret Restricted Data
 * SRF: Superconducting radiofrequency
+* SRS: Synchrotron Radiation Source formerly at Daresbury
 * SSA: Single-spin asymmetry
 * SSA: Storage Systems Administration
 * SSC: Solid-state Slit Camera on MAXI
@@ -1885,7 +1925,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * STAR: Solenoidal Tracker At RHIC
 * STARS: Caribbean Symposium on Cosmology, Gravitation, Nuclear and Astroparticle Physics, apparently not an acronym
 * STEM: Scanning transmission electron microscopy
-* STFC: Science and Technology Facilities Council
+* STFC: UK Science and Technology Facilities Council
 * STM: Scanning tunneling microscopy
 * STU: Model that exhibits both exact S- and T-dualities
 * STXS: Simplified Template Cross Sections
@@ -1930,6 +1970,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * TCE: TTA-based Co-design Environment
 * TCS: Timelike Compton scattering
 * TDA: Transition distribution amplitude
+* TDAQ: Trigger and Data Acquisition
 * TDGL: Time-dependent Ginzburg and Landau model
 * TE: Temperature and E-mode cross-correlation
 * TEA: Tung et al.
@@ -1958,12 +1999,14 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * TikZ: LaTeX graphics package, apparently not an acronym
 * TILW: Tadpole improved Luescher-Weisz action
 * TJNAF: Thomas Jefferson National Accelerator Facility
+* TKNN: Thouless, Kohmoto, Nightingale and den Nijs number describing integer Hall conductivity
 * TL: Toda lattice
 * TLB: Translation lookaside buffer
 * TLEP: Triple Large Electron--Positron Collider
 * TM: Tri-maximal mixing
 * TMD: Transverse momentum dependent parton distribution function
 * TMT: Thirty Meter Telescope proposed in Hawaii
+* TNE: Transnational education
 * TNS: Tensor network states
 * TOPAS: TOol for PArticle Simulation
 * TOPAZ: Detector at TRISTAN, acronym unknown, may be related to top quark
@@ -2103,11 +2146,13 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 ## Y
 * YaJEM: Yet another Jet Energy-loss Model
 * YBCO: Yttrium barium copper oxide
+* YETI: Young Experimentalists and Theorists Institute
 * YFS: Yennie, Frautschi and Suura
 * YMH: Yang, Mills and Higgs
 * Yp: Primordial helium abundance (mass fraction)
 * YSO: Young stellar object
 * YSS: Young Statisticians' Section of the RSS
+* YTF: Young Theorists' Forum at Durham
 * YUMGUT: Yukawon Ultra Minimal Grand Unified Theory
 
 ## Z
@@ -2115,3 +2160,4 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * ZDC: Zero degree calorimeter
 * ZEPLIN: Liquid Xenon and proportional scintillation dark matter experiment
 * ZiF: Zentrum für interdisziplinäre Forschung at Bielefeld
+* ZTF: Zwicky Transient Facility at Palomar
