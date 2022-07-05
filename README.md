@@ -240,6 +240,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * BRNS: Indian DAE Board of Research in Nuclear Sciences
 * BRpV: Bilinear R parity Violation
 * BRST: Becchi, Rouet, Stora, and (independently) Tyutin
+* BSI: British Standards Institution
 * BSS: Blankenbecler, Scalapino and Sugar quantum Monte Carlo algorithm
 * BSSN: Baumgarte, Shapiro, Shibata and Nakamura
 * BSV: Bajc, Senjanovic and Vissani
@@ -386,7 +387,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * CNI: Computing and Networking Infrastructure
 * CNM: Cold nuclear matter
 * CNMSSM: Constrained next-to-minimal supersymmetric standard model
-* CNRS: Centre national de la recherche scientifique
+* CNRS: Centre National de la Recherche Scientifique
 * CnuB: Cosmic Neutrino Background
 * COBE: Cosmic Background Explorer satellite
 * CoDECS: Coupled Dark Energy Cosmological Simulations database
@@ -429,6 +430,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * CRESST: Cryogenic Rare Event Search with Superconducting Thermometers
 * CREST: Cosmic Ray Electron Synchrotron Telescope
 * CRID: Cherenkov Ring Imaging Detector, part of SLD
+* CRIRES: CRyogenic high-resolution InfraRed Echelle Spectrograph for ESO's VLT
 * CSC: ATLAS Computing System Commissioning
 * CSD2: Constrained Sequential neutrino Dominance of type 2
 * CSE: Computational Science and Engineering
@@ -595,6 +597,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * ECOSMOG: Efficient COde for Simulating MOdified Gravity
 * ECS: ESnet Collaboration Service
 * ECT: European Center for Theoretical Studies in Nuclear Physics and Related Areas
+* ECuME: Electroplated Cuprum Manufacturing Experiment
 * EDD: Exclusive double diffractive
 * EDELWEISS: Expérience pour DEtecter Les Wimps En Site Souterrain
 * EDGES: Experiment to Detect the Global Epoch of reionization Signature
@@ -656,12 +659,16 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * EPTA: European Pulsar Timing Array
 * ePUMP: Error PDF Updating Method Package code
 * eQPA: Extended quasiparticle approximation
+* ERA: European Research Area (e.g., QuantERA)
 * ERBL: Efremov, Radyushkin, Brodsky and Lepage
 * ERE: Effective range expansion
 * ERE: Encuentros Relativistas Españoles
 * ERL: Energy Recovery Linac at Daresbury, renamed ALICE
 * EROS: Expérience pour la Recherche d'Objets Sombres microlensing survey
+* eROSITA: X-ray instrument for Russian--German Spektr-RG space observatory, superseding ROSAT
 * ESA: European Space Agency
+* ESD: Education for Sustainable Development
+* ESFRI: European Strategy Forum on Research Infrastructures
 * ESI: Erwin Schrodinger International Institute for Mathematical Physics
 * ESNet: Energy Sciences Network
 * ESO: European Southern Observatory
@@ -694,6 +701,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * FAIRNESS: FAIR NExt generation ScientistS
 * FAKT: Fachausschusses für Kern- und Teilchenphysik of the Austrian Physical Society
 * FAPT: Fractional Analytic Perturbation Theory
+* FAQSC: Liverpool Faculty Academic Quality and Standards Committee
 * FASER: ForwArd Search ExpeRiment at the LHC
 * FAST: Five-hundred-meter Aperture Spherical radio Telescope in China
 * FASTSUM: Frascati, Argonne, Seoul, Trinity, Swansea, Utah and Maynooth
@@ -828,6 +836,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * GLoBES: General Long Baseline Experiment Simulator
 * GLR-MQ: Gribov, Levin, Ryskin, Mueller and Qiu
 * GLV: Gyulassy, Levai and Vitev
+* GLW: de Groot, van Leeuwen and van Weert energy--momentum and spin tensors
 * GM-VFN: General-mass variable-flavor-number
 * GMO: Goldberger, Miyazawa and Oehme
 * GMOR: Gell-Mann, Oakes and Renner
@@ -1002,11 +1011,13 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * ICG: Institute of Cosmology and Gravitation
 * ICGAC: International Conference on Gravitation, Astrophysics and Cosmology
 * ICGC: International Conference on Gravitation and Cosmology
+* ICHEC: Irish Centre for High-End Computing
 * ICISE: International Centre for Interdisciplinary Science Education in Quy Nhon
 * ICM: International Conference on Magnetism
 * ICNAAM: International Conference of Numerical Analysis and Applied Mathematics
 * ICRC: International Cosmic Ray Conference
 * ICT: Information and communications technology
+* ICURe: Innovation to Commercialisation of University Research program of Innovate UK
 * iDM: Inelastic dark matter
 * IDM: Inert doublet model
 * IDM: Interacting dark matter
@@ -1043,6 +1054,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * INS: Institute for Nuclear Studies at The George Washington University
 * INTEGRAL: International Gamma-Ray Astrophysics Laboratory
 * IOC: Input Output Controller for EPICS
+* IOSH: Institution of Occupational Safety and Health
 * IOTA: Integrable Optics Test Accelerator at Fermilab
 * IP: Impact parameter, used in heavy-ion collision contexts
 * IP-Glasma: Impact-Parameter-dependent Glasma model
@@ -1056,6 +1068,8 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * IPTA: International Pulsar Timing Array
 * IRAS: Irfra-Red Astronomical Satellite
 * IRC: Infrared and collinear
+* IRIS: Infrastructure for Research and Innovation for STFC
+* IRMA: Institut de Recherche Mathématique Avancée associated with CNRS
 * IS: Interstellar cosmic ray fluxes
 * ISAC: Isotope Separator and ACcelerator facility at TRIUMF
 * ISARIC: International Severe Acute Respiratory and Emerging Infection Consortium
@@ -1101,6 +1115,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * JHF: Japan Hadron Facility
 * JIMWLK: Jalilian-Marian, Iancu, McLerran, Weigert, Leonidov and Kovner
 * JINR: Joint Institute for Nuclear Research in Dubna, Russia
+* JISC: Joint Information Systems Committee
 * JLA: Joint Light-curve Analysis of SDSS and SNLS supernova data
 * JPAC: Joint Physics Analysis Center set up by Indiana and JLab
 * JS: Jacobsen and Saleur
@@ -1182,6 +1197,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * LapH: Laplacian Heaviside smearing
 * LAPW: Linearized augmented plane wave
 * LARP: LHC Accelerator Research Program
+* LArIAT: Liquid Argon In A Testbeam neutrino experiment at Fermilab
 * LArTPC: Liquid Argon Time Projection Chambers
 * LASAGNA: Lepton Asymmetric Sterile--Active momentum-Grid Neutrino Analyser adaptive ODE solver
 * LASS: Large Acceptance Solenoid Spectrometer at SLAC
@@ -1207,6 +1223,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * LEBC: LExan Bubble Chamber at CERN
 * LeCosPA: Leung Center for Cosmology and Particle Astrophysics
 * LEDA: Library of Efficient Data types and Algorithms
+* LEGEND: Large Enriched Germanium Experiment for Neutrinoless ββ Decay and Gran Sasso
 * LENA: Low Energy Neutrino Astronomy liquid scintillator
 * LEPS: Laser Electron Photon Experiment at SPring-8
 * LESA: Lepton-number Emission Self-sustained Asymmetry [dipole neutrino minus antineutrino]
@@ -1251,6 +1268,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * LOFAR: Low-Frequency Array interferometer
 * LOOL: Leading-order one-loop
 * LOFF: Larkin, Ovchinnikov, Fulde and Ferrel
+* LORRI: LOng-Range Reconnaissance Imager on the New Horizons mission to Pluto
 * LOSP: Lightest Ordinary Supersymmetric Particle
 * LPM: Landau, Pomeranchuk and Migdal
 * LPSC: Laboratoire de Physique Subatomique et de Cosmologie de Grenoble
@@ -1409,6 +1427,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * munuSSM: "mu from nu" supersymmetric standard model, in which the mu problem is solved by introducing right-handed neutrinos
 * MuPs: Muonium-positronium (mu+ e- e- e+)
 * MURMUR: Low-noise neutron-passing-through-walls experiment, acronym unknown but potentially related to the University of Namur
+* MUSE: Multi Unit Spectroscopic Explorer for ESO's VLT
 * MUSIC: MUSCL for Ion Collisions program
 * MUSCL: Monotone Upstream-centered Schemes for Conservation Laws
 * MUST: Tool to detect MPI usage errors, apparently not an acronym
@@ -1676,6 +1695,8 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * QRPA: Quasiparticle random phase approximation
 * QSO: Quasi-stellar objects (quasars)
 * QSSR: QCD spectral sum rules
+* QTEC: Quantum Technology Enterprise Centre at Bristol
+* QTIC: Quantum Technologies Innovation Centre at Bristol
 * QTS: Quantum Theory and Symmetries
 * QUaD: QUEST at DASI
 * QuantEmX: Quantum Emergence Exchange
@@ -1684,6 +1705,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * QUAX: QUaerere AXion ("search axion") proposal
 * QUEST: Q and U Extragalactic Sub-mm Telescope
 * QUEST: Quasar/ULIRG Evolution STudy experiment
+* QuIC: European Quantum Industry Consortium
 * QUIET: Q/U Imaging ExperimenT (Q and U are Stokes parameters)
 
 ## R
@@ -1738,8 +1760,9 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * RnuMDM: Model relating radiative seesaw and minimal dark matter mass scales with only SM gauge group
 * ROC: Receiver operating characteristic of signal efficiency as function of background efficiency
 * ROC: Remote operations center
+* ROCm: Radeon Open Compute platform
 * ROI: Rest observer at infinity
-* ROSAT: Röntgen Satellite (X-ray observatory)
+* ROSAT: Röntgen Satellite (1990s X-ray observatory)
 * RP: Reaction plane
 * RP: Real projective space
 * RPA: Random phase approximation
@@ -1765,6 +1788,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 
 ## S
 * S&FE: Schools and Further Education committee of the IMA
+* SAB: Strategic Advisory Board
 * SACOT: Simplified ACOT renormalization scheme
 * SAdS: Schwartzchild anti-de Sitter
 * SAGE: Soviet-American Gallium Experiment
@@ -2125,6 +2149,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * WMAP: Wilkinson Microwave Anisotropy Probe
 * WONP: Workshop On Nuclear Physics
 * WPCF: Workshop on Particle Correlations and Femtoscopy
+* WRAP: Waste & Resources Action Programme
 * Wth: Thermal Watt
 * WWND: Winter Workshop on Nuclear Dynamics
 * WZ: Wess and Zumino
