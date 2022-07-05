@@ -30,7 +30,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * ACD: Appelquist, Cheng and Dobrescu
 * ACES: Alliance for Computing at Extreme Scale partnership between Los Alamos and Sandia
 * ACM: Anomalous chromomagnetic moment
-* ACME:  Advanced Cold Molecule Electron electric dipole moment experiment
+* ACME: Advanced Cold Molecule Electron electric dipole moment experiment
 * ACOT: Aivazis, Collins, Olness and Tung renormalization scheme
 * ACT: Atacama Cosmology Telescope
 * ACTpol: Atacama Cosmology Telescope Polarimeter
@@ -129,7 +129,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * ATLAS: A Toroidal LHC ApparatuS at CERN
 * ATMNC: ATmostpheric Muon Neutrino Calculation
 * ATNF: Australia Telescope National Facility
-* AUC: Area Under the [receiver operating characteristic] Curve machine learning  performance measure
+* AUC: Area Under the [receiver operating characteristic] Curve machine learning performance measure
 * AUT: Single-spin target Asymmetry with Unpolarized beam and Transversely polarized target
 * AVX: Advanced vector extensions
 * AWAKE: Advanced proton driven plasma Wakefield acceleration experiment based at CERN
@@ -1283,13 +1283,13 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * LSDS: Lead Slowing Down Spectrometer at LANL
 * LSF: Light-quark spin--flavor symmetry
 * LSND: Liquid Scintillator Neutrino Detector at the Los Alamos Meson Physics Facility
-* LSP:  Lightest supersymmetric particle
+* LSP: Lightest supersymmetric particle
 * LSS: Large-scale structure
 * LSST: Large Synoptic Survey Telescope
 * LSZ: Lehmann, Symanzik and Zimmermann
 * LTB: Lemaître, Tolman and Bondi
 * LTD: Loop--tree duality
-* LUCIAE: (hadron and string cascade model, acronym meaning unknown
+* LUCIAE: Hadron and string cascade model, acronym meaning unknown
 * LUPM: Laboratoire Univers et Particules de Montpellier
 * LUX: Large Underground Xenon dark matter experiment
 * LVD: Large Volume Detector neutrino experiment at Gran Sasso
@@ -1577,7 +1577,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * PandaX: Liquid xenon dark matter experiment in China (CJPL), apparently not an acronym
 * PANIC: Particles and Nuclei International Conference
 * PanSTARRS: Panoramic Survey Telescope and Rapid Response System
-* PArthENoPE:  Public Algorithm Evaluating the Nucleosynthesis of Primordial Elements
+* PArthENoPE: Public Algorithm Evaluating the Nucleosynthesis of Primordial Elements
 * PARTICLEFACE: COST Action "Unraveling new physics at the LHC through the precision frontier", apparently not an acronym
 * PASC: Swiss Platform for Advanced Scientific Computing
 * PASEP: Partially asymmetric simple exclusion process
@@ -2125,7 +2125,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 ## W
 * WARP: Wimp Argon Programme
 * WASA: Wide Angle Shower Apparatus, once at CELSIUS, now at COSY
-* WATCHMAN:  WATer CHerenkov Monitor for Anti-Neutrinos non-proliferation experiment at AIT
+* WATCHMAN: WATer CHerenkov Monitor for Anti-Neutrinos non-proliferation experiment at AIT
 * WB: Weak basis
 * wCDM: Cold dark matter model with free (constant) EOS w for dark energy
 * WDM: Warm dark matter
