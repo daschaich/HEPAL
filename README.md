@@ -1,6 +1,8 @@
 # HEPAL
 This is a list of acronyms, abbreviations and similar stuff that I've had to look up or remember over the years, mostly due to reading [hep-lat](https://arxiv.org/list/hep-lat/new), [hep-ph](https://arxiv.org/list/hep-ph/new) and [hep-th](https://arxiv.org/list/hep-th/new) arXiv postings.  It is organized alphabetically rather than thematically.  Fermilab and CTEQ have similar lists [here](http://www.fnal.gov/pub/ferminews/ahep.html) and [here](https://www.physics.smu.edu/scalise/cteq/acronym.html).
 
+This basic list has largely been superseded by the [High Energy Physics Acronym Dictionary](https://hepad.physi.uni-heidelberg.de/) constructed by Casper van Veen and Ilya Fokin, but will continue to be updated on occasion.
+
 ## `#`
 * 2DEG: Two-dimensional electron gas
 * 2dFGRS: Two-degree-Field Galaxy Redshift Survey
@@ -107,6 +109,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * ARC: Applied Research Center at JLab
 * ARCA: Astronomy Research with Cosmics in the Abyss under construction as part of KM3NeT
 * ARCADE: Absolute Radiometer for Cosmology, Astrophysics and Diffuse Emission
+* ARES: Automated Resummer for Event Shapes semi-numerical approach
 * ARGO-YBJ: Astrophysical Radiation with Ground-based Observatory at YangBaJing
 * ArgoNeuT: Argon Neutrino Test project at Fermilab
 * ARGUS: A Russian--German--United States--Swedish Collaboration at DORIS
@@ -238,6 +241,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * BR: Brown and Rho
 * BR: Burnier and Rothkopf bayesian reconstruction method
 * BRAHMS: Broad RAnge Hadron Magnetic Spectrometers experiment at RHIC
+* BREAD: Broadband Reflector Experiment for Axion Detection proposed at Fermilab
 * BRNS: Indian DAE Board of Research in Nuclear Sciences
 * BRpV: Bilinear R parity Violation
 * BRST: Becchi, Rouet, Stora, and (independently) Tyutin
@@ -317,6 +321,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * CFHTLenS: Canada-France-Hawaii Telescope Lensing Survey
 * CfA: Harvard--Smithsonian Center for Astrophysics redshift survey
 * CFL: Color-flavor-locked
+* CFNS: Center for Frontiers in Nuclear Science at Stony Brook
 * CGC: Clebsch--Gordan coefficient
 * CGC: Color glass condensate
 * CGLN: Chew, Goldberger, Low and Nambu
@@ -370,6 +375,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * CLEAN: Cryogenic Low-Energy Astrophysics with Noble gases
 * CLEO: Not an acronym, detector at CESR
 * CLEO: Conference on Lasers and Electro-Optics
+* CLF: Central Laser Facility at Harwell
 * cLFV: Charged lepton flavor violating observables
 * CLIC: Compact Linear Collider
 * CLICdp: Compact Linear Collider Detector and Physics Collaboration
@@ -433,6 +439,8 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * CREST: Cosmic Ray Electron Synchrotron Telescope
 * CRID: Cherenkov Ring Imaging Detector, part of SLD
 * CRIRES: CRyogenic high-resolution InfraRed Echelle Spectrograph for ESO's VLT
+* CSA: Coordination and Support Action of the European Commission
+* CSBP: Continuous-state branching process
 * CSC: ATLAS Computing System Commissioning
 * CSD2: Constrained Sequential neutrino Dominance of type 2
 * CSE: Computational Science and Engineering
@@ -648,6 +656,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * EOGM: Extra-ordinary gauge mediation
 * EoR: Epoch of Reionization
 * EP: Event plane
+* EPAC: Extreme Photonics Applications Centre at the CLF at Harwell
 * EPAPS: Electronic Physics Auxiliary Publication Service
 * EPCC: Edinburgh Parallel Computing Centre
 * EPECUR: pi-p elastic scattering experiment at ITEP, acronym unknown, Russian for Epicurus
@@ -976,6 +985,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * HPGe: High-purity germanium
 * HRG: Hadron resonance gas
 * HRS: High Resolution Separator at ISOLDE
+* HSA: Heterogeneous Systems Architecture
 * HSC: Hadron Spectrum Collaboration
 * HSC: Subaru Hyper Suprime-Cam
 * HSS: Harmonic superspace
@@ -1008,7 +1018,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * ICAL: Magnetized Iron CALorimeter detector under construction for INO
 * ICAM: Institute for Complex Adaptive Matter
 * ICAP: International Conference on Atomic Physics
-* ICARUS: Imaging Cosmic And Rare Underground Signals at Gran Sasso
+* ICARUS: Imaging Cosmic And Rare Underground Signals, originally at Gran Sasso then moved to Fermilab
 * ICATPP: International Conference on Advanced Technology and Particle Physics
 * ICCA: International Conference on Clifford Algebras
 * ICCING: Initial Conserved Charges in Nuclear Geometry model
@@ -1084,6 +1094,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * ISAC: Isotope Separator and ACcelerator facility at TRIUMF
 * ISARIC: International Severe Acute Respiratory and Emerging Infection Consortium
 * ISARIC4C: ISARIC Coronavirus Clinical Characterisation Consortium
+* ISC: International Supercomputing Conference
 * ISCO: Innermost stable circular orbit
 * ISD: Imaginary self dual
 * iSF: Inverse soft function
@@ -1099,6 +1110,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * ISS: Intriligator, Seiberg and Shih
 * ISS: Inverse Seesaw model
 * ISSO: Information System Security Officer
+* ISSYP: International Summer School for Young Physicists at Perimeter
 * ISVHECRI: International Symposium on Very High Energy Cosmic Ray Interactions
 * iTEBD: Infinite time-evolving block decimation tensor network method
 * ITEP: Institute for Theoretical and Experimental Physics in Moscow
@@ -1131,6 +1143,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * JPAC: Joint Physics Analysis Center set up by Indiana and JLab
 * JS: Jacobsen and Saleur
 * JSNS2: J-PARC Sterile Neutrino Search at the J-PARC Spallation Neutron Source
+* JSPS: Japan Society for the Promotion of Science
 * JTFI: Joint Task Force Initiative at Fermilab
 * JUNIPR: Jets from UNsupervised Interpretable PRobabilistic models framework
 * JUNO: Jiangmen Underground Neutrino Observatory, formerly Daya Bay
@@ -1830,6 +1843,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * SCF: Strong color fields
 * SciBooNE: SciBar Booster Neutrino Experiment
 * Scotogenic: Caused by darkness (dark matter or dark energy)
+* SPAM: State preparation and measurement errors in quantum computing
 * SPSC: SPS and PS experiments Committee
 * SD: Single diffraction
 * SDE: Schwinger--Dyson equation
@@ -1990,7 +2004,7 @@ This is a list of acronyms, abbreviations and similar stuff that I've had to loo
 * SW: Sheikholeslami and Wohlert
 * SWME: Staggered fermion Weak Matrix Element Collaboration
 * SYK: Sachdev, Ye and Kitaev model
-* SYZ: Strominger, Yau and Zaslow conjecture that mirror symmetry is T~duality
+* SYZ: Strominger, Yau and Zaslow conjecture that mirror symmetry is T-duality
 * SZ: Sunyaev and Zeldovich galaxy cluster effect
 
 ## T
